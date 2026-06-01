@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @kumarnishkarsh
-- 👀 I’m interested in coding, for eg. Python, HTML5, CSS
-- 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> GMAIL ID - kumar.nishkarsh8@gmail.com
+# Hey, I'm Nishkarsh Kumar 👋
 
-<!---
-kumarnishkarsh/kumarnishkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ECE Student at VIT Vellore.
+
+## About Me
+- 🔭 Started coding at age 11 with Python and QBasic
+- 🌱 Currently learning C through CS50x (Harvard)
+- ⚡ Interested in Embedded Systems, Signals, and Core ECE, VLSI
+
+## Tools & Languages
+- Python | C (learning) | NumPy | Matplotlib
+
+## Projects
+- 🌊 [Signal Visualizer](https://github.com/kumarnishkarsh/Signal-Visualizer) — Visualize sine, square and triangle waves in Python
+
+## reach me
+- 📫 kumar.nishkarsh8@gmail.com
