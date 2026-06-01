@@ -9,9 +9,7 @@ ECE Student at VIT Vellore.
 
 ## Tools & Languages
 **Proficient:** Python | HTML5 | SQL
-
 **Learning:** C
-
 **Libraries:** NumPy | Matplotlib
 
 ## Projects
