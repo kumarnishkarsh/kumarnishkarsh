@@ -16,6 +16,8 @@ ECE Student at VIT Vellore.
 
 ## Projects
 -  [Signal Visualizer](https://github.com/kumarnishkarsh/Signal-Visualizer) — Visualize sine, square and triangle waves in Python
+-  [Number System Converter](https://github.com/kumarnishkarsh/Number-System-Converter) — Convert numbers between Binary, Octal, Decimal and Hexadecimal
+
 
 ## reach me
 -  kumar.nishkarsh8@gmail.com
